@@ -1,8 +1,9 @@
 My name is Ethan Baker.
-I am a python programer currently in college at UMD. 
+I am a Python and Java programer currently in college at UMD. 
 I am studying computer science with a specific focus on machine learning.
-You can contact me by discord at Eugh#2509.
-Have a nice day :)
+Discord: Eugh#2509
+Email: ethanbaker3525@gmail.com
+Have a nice day 😃
 
 <!---
 ethanbaker3525/ethanbaker3525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
