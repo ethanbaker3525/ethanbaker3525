@@ -1,4 +1,4 @@
-My name is Ethan Baker, I go by its_eugh on twitch.
+My name is Ethan Baker.
 I am a python programer currently in college at UMD. 
 I am studying computer science with a specific focus on machine learning.
 You can contact me by discord at Eugh#2509.
